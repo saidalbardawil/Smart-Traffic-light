@@ -11,7 +11,7 @@ cred = credentials.Certificate("")
 firebase_admin.initialize_app(cred, {''})
 ref = db.reference('')
 
-cap = cv2.VideoCapture('z2.mp4')
+cap = cv2.VideoCapture('street_video.mp4')
 
 
 with open('streetPos', 'rb') as f:
