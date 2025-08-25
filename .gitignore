@@ -1,0 +1,85 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.sqlite3
+*.db
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# Arduino / ESP32
+# =========================
+*.elf
+*.bin
+*.hex
+*.dcu
+*.o
+*.out
+*.d
+.build/
+
+# Arduino IDE specific
+*.ino.cpp
+*.ino.d
+*.ino.elf
+*.ino.hex
+
+# PlatformIO
+.pio/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# =========================
+# Node (if Firebase emulator or tools are used)
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# =========================
+# Documents (keep only final report/presentation if needed)
+# =========================
+~$*.docx
+~$*.pptx
+*.tmp
+
+# =========================
+# CAD / SolidWorks
+# =========================
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.sldprt
+*.sldasm
+*.slddrw
+*.bak
+*.tmp
+*.$$$
+
+# =========================
+# OS / Editor Files
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
