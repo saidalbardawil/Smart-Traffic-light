@@ -43,6 +43,8 @@ ENV/
 .piolibdeps/
 .clang_complete
 .gcc-flags.json
+# Ignore placeholder PlatformIO READMEs
+**/README
 
 # =========================
 # Node (if Firebase emulator or tools are used)
