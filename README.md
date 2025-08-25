@@ -262,7 +262,7 @@ Supervised by Dr. Hassan Abumeteir.
 
 For questions, suggestions, or collaboration opportunities:
 
-- **Email**: [saidalbardawil@example.com](mailto:saidalbardawil@example.com)
+- **Email**: [saidalbardawil305@gmail.com](mailto:saidalbardawil305@gmail.com)
 - **Project Repository**: [GitHub](https://github.com/saidalbardawil/Smart-Traffic-light)
 - **Documentation**: See `/docs` folder for detailed technical specifications
 
