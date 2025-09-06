@@ -1,0 +1,11 @@
+# Core libraries
+opencv-python==4.8.1.78
+numpy==1.26.4
+
+# Visualization helper
+cvzone==1.5.6
+
+# Firebase integration
+firebase-admin==6.3.0
+
+
